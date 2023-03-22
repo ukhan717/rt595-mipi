@@ -1,0 +1,3 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_system.c:47:6:GPIO_INTA_IRQHandler	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_system.c:96:6:EwBspSystemInit	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_system.c:161:6:EwBspSystemDone	4	static

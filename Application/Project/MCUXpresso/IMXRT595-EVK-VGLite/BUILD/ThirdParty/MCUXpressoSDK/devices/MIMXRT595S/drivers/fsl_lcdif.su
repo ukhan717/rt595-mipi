@@ -1,0 +1,15 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_clock.h:1098:20:CLOCK_EnableClock	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_clock.h:1128:20:CLOCK_DisableClock	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:49:17:LCDIF_GetInstance	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:76:10:LCDIF_Init	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:98:6:LCDIF_Deinit	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:125:6:LCDIF_DpiModeGetDefaultConfig	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:154:10:LCDIF_DpiModeSetConfig	40	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:231:6:LCDIF_FrameBufferGetDefaultConfig	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:247:6:LCDIF_SetFrameBufferConfig	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:274:6:LCDIF_SetFrameBufferStride	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:286:6:LCDIF_SetDitherConfig	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:317:6:LCDIF_SetGammaData	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:344:6:LCDIF_CursorGetDefaultConfig	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:360:6:LCDIF_SetCursorConfig	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_lcdif.c:383:6:LCDIF_SetCursorColor	24	static

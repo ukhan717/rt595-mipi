@@ -1,0 +1,2 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_common_arm.c:159:13:DelayLoop	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_common_arm.c:189:6:SDK_DelayAtLeastUs	40	static

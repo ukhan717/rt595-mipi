@@ -1,0 +1,10 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:28:13:DC_FB_SSD1963_FrameDoneCallback	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:52:10:DC_FB_SSD1963_Init	48	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:78:10:DC_FB_SSD1963_Deinit	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:93:10:DC_FB_SSD1963_EnableLayer	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:111:10:DC_FB_SSD1963_DisableLayer	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:132:10:DC_FB_SSD1963_SetLayerConfig	40	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:147:10:DC_FB_SSD1963_GetLayerDefaultConfig	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:163:10:DC_FB_SSD1963_SetFrameBuffer	56	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:183:6:DC_FB_SSD1963_SetCallback	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/ssd1963/fsl_dc_fb_ssd1963.c:192:10:DC_FB_SSD1963_GetProperty	16	static

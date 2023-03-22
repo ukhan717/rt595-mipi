@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3422730446</fileChecksum>
+    <configuration>
+        <name>IMXRT595-EVK-VGLite</name>
+        <outputs>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\Drivers\board.o</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\str\fsl_str.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\ft3267\fsl_ft3267.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_mculcd_smartdma.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\rtos\vg_lite_os.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite_matrix.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_i2c_master.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\ssd1963\fsl_ssd1963.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\fsl_video_common.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_ResourcesFontExtraLarge.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\dsi_cmd\fsl_dc_fb_dsi_cmd.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexcomm.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\ssd1963\fsl_dc_fb_ssd1963.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\system_MIMXRT595S_cm33.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite_image.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_common_arm.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_port_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_manager.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite_path.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\fbdev\fsl_fbdev.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_mculcd.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\gt911\fsl_gt911.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\vg_lite_kernel.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\fsl_assert.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_inputmux.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_mipi_dsi_smartdma.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_cache.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\rtos\vg_lite_hal.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\rm67162\fsl_rm67162.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_smartdma.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\debug_console\fsl_debug_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\iar\startup_MIMXRT595S_cm33.s</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\uart\fsl_adapter_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_mipi_dsi.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_power.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\mipi_dsi_cmd\fsl_mipi_dsi_cmd.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\rm68200\fsl_rm68200.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_ResourcesFontMedium.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Views.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\timers.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\list.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Resources.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\MemMang\heap_4.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_WidgetSetPushButtonMedium.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RTE\ewextrte.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\WidgetSet.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\tasks.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\IAR\ARM_CM33_NTZ\non_secure\port.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_ResourcesSymbolIconsLarge.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_WidgetSetCheckBoxMedium.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_ResourcesFontSmall.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\IAR\ARM_CM33_NTZ\non_secure\portasm.s</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Application.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_WidgetSetHorizontalValueBarMedium.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Graphics.c</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\queue.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Effects.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Core.c</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\ewfiles.ipcf</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_inout.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_touch.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_system.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\vg_lite_hal.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_event.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\vglite\vg_lite.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\vglite\vg_lite_image.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_os.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\vglite\vg_lite_matrix.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\vglite\vg_lite_path.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_adapter_usart.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_assert.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_cache.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_clock.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\system_MIMXRT595S_cm33.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\vglite\vg_lite_kernel.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\vglite\vg_lite_os.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_common.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\main.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_fbdev.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_dc_fb_ssd1963.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_flexio.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_flexio_mculcd_smartdma.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_flexspi.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_ft3267.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_inputmux.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_smartdma.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_flexio_mculcd.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_rtc.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_usart.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_component_serial_manager.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_video_common.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_ssd1963.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_flexio_i2c_master.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_reset.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_rm67162.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_rm68200.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_str.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_component_serial_port_uart.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_i2c.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_mipi_dsi.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_debug_console.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_mipi_dsi_cmd.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_flexcomm.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_power.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_gt911.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_mipi_dsi_smartdma.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_dc_fb_dsi_cmd.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\Drivers\display_support.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\Drivers\pin_mux.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_console.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Drivers\fsl_common_arm.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\Drivers\flash_config.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\Drivers\vglite_support.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\ew_bsp_clock.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\tasks.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\timers.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\EmbeddedWizard\RTE\ewextrte.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\list.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\heap_4.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\port.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\queue.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\portasm.o</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\startup_MIMXRT595S_cm33.o</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Application.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\Core.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_ApplicationApplication.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_AcceleratorAccelerator.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_GraphicsCanvas.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_CoreKeyPressHandler.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_ResourcesBitmap.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_EffectsEffectTimerClass.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\_CoreGroup.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfxdefs.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfxres.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfxcore.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewextgfx.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfx.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfxtasks.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewextfnt.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewextbmp.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfxdriver.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewextpxl_RGBA8888.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RGBA8888\ewgfxlinks.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\uart\fsl_adapter_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\MIMXRT595S_cm33_features.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_cache.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_gpio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\MIMXRT595S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_reset.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\CMSIS\Core\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\system_MIMXRT595S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\portable.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_power.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\projdefs.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\clock_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\FreeRTOS.h</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\FreeRTOS\portasm.o.rsp</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\CMSIS\Core\Include\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\debug_console\fsl_debug_console.h</file>
+            <file>$PROJ_DIR$\..\..\Source\FreeRTOSConfig.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\CMSIS\Core\Include\cmsis_iccarm.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\CMSIS\Core\Include\core_cm33.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\mpu_wrappers.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_common_arm.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\board.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\deprecated_definitions.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_port_uart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\startup_MIMXRT595S_cm33.o.rsp</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\CMSIS\Core\Include\cmsis_compiler.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_manager.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\flash_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_iap.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\IAR\ARM_CM33_NTZ\non_secure\portmacro.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\fsl_display.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\mipi_dsi_cmd\fsl_mipi_dsi_cmd.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\rm67162\fsl_rm67162.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_inputmux.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_inputmux_connections.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_mipi_dsi_smartdma.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\pin_mux.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\task.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_mipi_dsi.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RTE\ewrte.h</file>
+            <file>$PROJ_DIR$\..\..\Source\ewdef.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_smartdma.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_soc_mipi_dsi.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\fsl_video_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\display_support.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\rtos\vg_lite_platform.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\vg_lite_hw.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\vg_lite_kernel.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\inc\vg_lite_hal.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\rtos\vg_lite_os.h</file>
+            <file>$PROJ_DIR$\..\..\GeneratedCode\ewlocale.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\list.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\dsi_cmd\fsl_dc_fb_dsi_cmd.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\fsl_dc_fb.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_iopctl.h</file>
+            <file>$PROJ_DIR$\..\..\..\PlatformPackage\RTE\ewextrte.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dbi\fsl_dbi.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\inc\vg_lite.h</file>
+            <file>$PROJ_DIR$\..\..\Source\ewmain.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\ssd1963\fsl_ssd1963.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_mculcd_smartdma.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_i2c_master.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\rm68200\fsl_rm68200.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\str\fsl_str.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_os.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\setjmp.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\freertos_tasks_c_additions.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_usart.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\queue.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\xatomic.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_inout.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_system.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_port_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\fbdev\fsl_fbdev.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_smartdma_prv.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\errno.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\ft3267\fsl_ft3267.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_display.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexcomm.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\timers.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\semphr.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\debug_console\fsl_debug_console_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_console.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_touch.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_event.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\include\stack_macros.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\IAR\ARM_CM33_NTZ\non_secure\portasm.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\ssd1963\fsl_dc_fb_ssd1963.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\vglite_support.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_mculcd.h</file>
+            <file>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\gt911\fsl_gt911.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdatomic.h</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_clock.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\..\Source\DeviceDriver.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_inout.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_os.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_system.c</file>
+            <file>$PROJ_DIR$\IMXRT595-EVK-VGLite\Obj\Application\TargetSpecific\Drivers\clock_config.o</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_touch.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\flash_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_display.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\clock_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\display_support.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\vglite_support.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\board.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_event.c</file>
+            <file>$PROJ_DIR$\..\..\Source\ewmain.c</file>
+            <file>$PROJ_DIR$\..\..\Source\ewconfig.h</file>
+            <file>$PROJ_DIR$\..\..\Source\main.c</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\str\fsl_str.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 107</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 264 200 183 250 262 191 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 165 167 257 238</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 253 164 242 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\ft3267\fsl_ft3267.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 251 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_mculcd_smartdma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 258 268 235 164 216 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\rtos\vg_lite_os.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 161 195 192 177 185 157 181 220 221 222 224 223 175 190 226 186 168 172 243 256 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 255 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite_matrix.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 193 264 262 161 195 198 177 185 157 232</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_i2c_master.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 258 236 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\ssd1963\fsl_ssd1963.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 234 231 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\fsl_video_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 199 182 166 184 178 218 163 155 179 158 188 164 165 167 175 190 226 186 168 172 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\dsi_cmd\fsl_dc_fb_dsi_cmd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 227 228 205 206 218 163 155 179 158 188 213 164 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexcomm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 113</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 253 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\dc\ssd1963\fsl_dc_fb_ssd1963.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 234 231 228 266 218 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\system_MIMXRT595S_cm33.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 200 195 177 157 199 182 166 184 178 163 155 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite_image.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 193 161 195 198 177 185 157 232</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_common_arm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_port_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 199 182 166 184 178 201 247 194 154 163 155 179 158 188 164 165 167 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\serial_manager\fsl_component_serial_manager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 199 182 166 184 178 201 247 194 154 163 155 179 158 188 164 165 167 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite_path.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 161 195 272 192 198 177 185 157 232</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\fbdev\fsl_fbdev.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 199 182 166 184 178 228 248 218 163 155 179 158 188 164 165 167 175 190 226 186 168 172 243 256 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio_mculcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 258 268 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 159 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\gt911\fsl_gt911.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 115</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 269 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 109</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 253 162 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\vg_lite_kernel.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 195 192 177 185 157 220 221 222 224 223</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\fsl_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 191 173 161 195 192 198 177 185 157 181 199 182 166 184 178 201 194 154 163 155 179 158 188 164 165 167 180 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_inputmux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 208 209 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_mipi_dsi_smartdma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 213 210 164 216 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_cache.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 156 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLiteKernel\rtos\vg_lite_hal.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 161 195 192 177 185 157 181 220 221 222 224 223 175 190 226 186 168 172 243 256 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\rm67162\fsl_rm67162.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 105</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 205 206 207 218 163 155 179 158 188 213 164 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_smartdma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 216 249 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\utilities\debug_console\fsl_debug_console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 111</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 191 173 161 195 192 198 177 185 157 181 199 182 166 184 178 201 194 154 163 155 179 158 188 164 165 167 180 257 238 175 190 226 186 168 172 243 256 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\iar\startup_MIMXRT595S_cm33.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 133</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 197</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\middleware\vglite\VGLite\vg_lite.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 264 262 161 195 272 192 198 177 185 157 222 224 232</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\uart\fsl_adapter_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 199 182 166 184 178 154 163 155 179 158 188 253 164 242 165 167 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_flexio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 258 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 160 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_mipi_dsi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 213 164 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\devices\MIMXRT595S\drivers\fsl_power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 163 155 179 158 188 170 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\mipi_dsi_cmd\fsl_mipi_dsi_cmd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 112</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 206 163 155 179 158 188 213 164 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\components\video\display\rm68200\fsl_rm68200.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 199 182 166 184 178 205 206 237 218 163 155 179 158 188 213 164 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\Views.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\timers.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 161 195 192 177 185 157 181 175 190 226 186 168 172 243 212 254 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\list.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 161 195 192 177 185 157 181 175 190 226 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\Resources.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 140 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\MemMang\heap_4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 161 195 192 177 185 157 181 175 190 226 186 168 172 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\PlatformPackage\RTE\ewextrte.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 127</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 264 262 240 191 270 161 195 272 192 198 244 177 185 157 290 215 230 214 271 259 239</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\WidgetSet.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 139 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\tasks.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 125</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 161 195 192 198 177 185 157 181 175 190 241 226 186 168 172 263 212 254 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\IAR\ARM_CM33_NTZ\non_secure\port.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 130</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 161 195 177 185 157 181 175 190 226 186 168 172 212 265 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\portable\IAR\ARM_CM33_NTZ\non_secure\portasm.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 132</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 176 181</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\Application.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 137 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\Graphics.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 138 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\ThirdParty\MCUXpressoSDK\rtos\freertos\freertos_kernel\queue.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 131</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 161 195 192 198 177 185 157 181 175 190 226 186 168 172 243 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\Effects.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 141 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\GeneratedCode\Core.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 136 225 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Source\DeviceDriver.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 134 290 215 214 245 239</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_inout.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 290 215 189 174 245 199 182 166 184 178 163 155 179 158 188 160 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_os.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 290 215 239 199 182 166 184 178 163 155 179 158 188 164 165 167 175 190 226 186 168 172 243 256 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_system.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 191 173 161 195 192 198 177 185 157 181 290 215 189 174 219 211 271 245 246 199 182 166 184 178 201 194 154 228 218 163 155 179 158 188 160 164 165 167 180 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_touch.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 290 215 214 189 174 219 271 252 260 199 182 166 184 178 251 228 218 163 155 179 158 188 160 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\flash_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 122</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 189 174 202 199 182 166 184 178 163 155 179 158 188 160 203 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 124</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 290 215 271 239 199 182 166 184 178 163 155 179 158 188 164 255 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_display.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 290 215 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 277</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 174 199 182 166 184 178 163 155 179 158 188 170 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\display_support.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 290 215 189 174 219 211 199 182 166 184 178 227 228 205 206 207 218 163 155 179 158 188 160 208 209 213 210 170 164 216 217 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 211 199 182 166 184 178 163 155 179 158 188 229 164 165 167</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\vglite_support.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 123</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 173 161 195 192 198 177 185 157 181 267 199 182 166 184 178 163 155 179 158 188 170 164 165 167 220 232 175 190 226 186 168 172 212 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\Drivers\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 191 173 161 195 192 198 177 185 157 181 189 174 199 182 166 184 178 201 194 154 163 155 156 179 158 188 159 160 162 170 164 165 167 180 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169 171 187 196 193 200 183 191 173 161 195 192 198 177 185 157 181 290 215 259 199 182 166 184 178 201 194 154 163 155 179 158 188 164 165 167 180 175 190 186 168 172 204</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\TargetSpecific\ew_bsp_event.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 290 215 271 261 239</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Source\ewmain.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135 290 215 233 214</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Source\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 290 215 233 214 259 239 246</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>

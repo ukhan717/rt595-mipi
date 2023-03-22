@@ -1,0 +1,15 @@
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\components\video\display\fsl_display.h:98:24:DISPLAY_Init	16	static
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\components\video\display\fsl_display.h:109:24:DISPLAY_Deinit	16	static
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\components\video\display\fsl_display.h:120:24:DISPLAY_Start	16	static
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\components\video\display\fsl_display.h:131:24:DISPLAY_Stop	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:28:13:DC_FB_DSI_CMD_FrameDoneCallback	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:52:10:DC_FB_DSI_CMD_Init	40	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:84:10:DC_FB_DSI_CMD_Deinit	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:105:10:DC_FB_DSI_CMD_EnableLayer	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:124:10:DC_FB_DSI_CMD_DisableLayer	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:146:10:DC_FB_DSI_CMD_SetLayerConfig	40	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:161:10:DC_FB_DSI_CMD_GetLayerDefaultConfig	40	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:178:10:DC_FB_DSI_CMD_SetFrameBuffer	64	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:228:6:DC_FB_DSI_CMD_SetCallback	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:237:10:DC_FB_DSI_CMD_GetProperty	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/dc/dsi_cmd/fsl_dc_fb_dsi_cmd.c:242:6:DC_FB_DSI_CMD_TE_IRQHandler	32	static

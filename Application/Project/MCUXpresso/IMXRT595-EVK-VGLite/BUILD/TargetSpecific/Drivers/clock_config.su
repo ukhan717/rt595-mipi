@@ -1,0 +1,5 @@
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\devices\mimxrt595s\drivers\fsl_clock.h:1358:20:CLOCK_SetXtalFreq	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/clock_config.c:48:28:BOARD_FlexspiClockSafeConfig	4	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/clock_config.c:62:28:BOARD_SetFlexspiClock	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/clock_config.c:91:6:BOARD_InitBootClocks	8	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/clock_config.c:183:6:BOARD_BootClockRUN	8	static

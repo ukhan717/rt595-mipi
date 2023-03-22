@@ -1,0 +1,9 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:32:6:GraphicsSystemDeviceClass__Init	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:51:6:GraphicsSystemDeviceClass__ReInit	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:58:6:GraphicsSystemDeviceClass__Done	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:71:6:GraphicsSystemDeviceClass_OnSetAcceleratorActive	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:82:8:GraphicsSystemDeviceClass_GetCpuLoad	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:98:6:GraphicsSystemDeviceClass_Init	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:106:6:GraphicsSystemDeviceClass_Done	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:113:7:GraphicsSystemDeviceClass_OnGetAcceleratorActive	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/GeneratedCode/GraphicsSystem.c:131:6:GraphicsSystemDevice__Init	16	static

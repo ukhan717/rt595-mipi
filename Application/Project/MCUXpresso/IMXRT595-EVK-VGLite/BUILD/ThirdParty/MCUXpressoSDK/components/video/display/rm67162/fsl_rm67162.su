@@ -1,0 +1,4 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/rm67162/fsl_rm67162.c:360:10:RM67162_Init	48	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/rm67162/fsl_rm67162.c:444:10:RM67162_Deinit	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/rm67162/fsl_rm67162.c:457:10:RM67162_Start	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/rm67162/fsl_rm67162.c:465:10:RM67162_Stop	24	static

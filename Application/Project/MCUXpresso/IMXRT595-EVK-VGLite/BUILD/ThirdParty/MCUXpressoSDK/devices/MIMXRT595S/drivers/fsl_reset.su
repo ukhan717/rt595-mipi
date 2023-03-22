@@ -1,0 +1,3 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_reset.c:40:6:RESET_SetPeripheralReset	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_reset.c:100:6:RESET_ClearPeripheralReset	32	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_reset.c:160:6:RESET_PeripheralReset	16	static

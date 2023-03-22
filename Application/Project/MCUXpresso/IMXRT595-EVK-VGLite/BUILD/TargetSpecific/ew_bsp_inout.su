@@ -1,0 +1,9 @@
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\cmsis\core\include\core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\devices\mimxrt595s\drivers\fsl_common_arm.h:499:24:EnableIRQ	24	static
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\devices\mimxrt595s\drivers\fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\devices\mimxrt595s\drivers\fsl_gpio.h:172:24:GPIO_PinRead	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_inout.c:55:6:EwBspInOutEventHandler	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_inout.c:100:6:EwBspInOutInitButton	24	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_inout.c:132:6:EwBspInOutInitLed	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_inout.c:156:6:EwBspInOutLedOn	8	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_inout.c:176:6:EwBspInOutLedOff	8	static

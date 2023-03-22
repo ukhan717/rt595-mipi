@@ -1,0 +1,12 @@
+C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\IMXRT595-EVK-VGLite\BrowseInfo\Application\ewmain.pbi: \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Source\ewmain.c \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Source\ewconfig.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Source\ewdef.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Source\ewmain.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\..\..\..\TargetSpecific\ew_bsp_clock.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\..\..\..\TargetSpecific\ew_bsp_event.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\..\..\..\TargetSpecific\ew_bsp_display.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\..\..\..\TargetSpecific\ew_bsp_touch.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\..\..\..\TargetSpecific\ew_bsp_console.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Project\EWARM\..\..\..\TargetSpecific\ew_bsp_os.h \
+  C:\WorkSpace\Documentation\SC1\NXP\IMXRT595-EVK-VGLite\Application\Source\DeviceDriver.h

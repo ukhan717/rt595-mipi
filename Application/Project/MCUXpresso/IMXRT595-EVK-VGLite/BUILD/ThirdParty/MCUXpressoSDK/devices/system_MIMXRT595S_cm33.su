@@ -1,0 +1,4 @@
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/system_MIMXRT595S_cm33.c:64:17:getFroDivClk	16	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/system_MIMXRT595S_cm33.c:100:28:SystemInit	8	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/system_MIMXRT595S_cm33.c:150:6:SystemCoreClockUpdate	88	static
+C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/system_MIMXRT595S_cm33.c:223:28:SystemInitHook	4	static
