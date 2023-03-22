@@ -1,9 +1,0 @@
-c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\devices\mimxrt595s\drivers\fsl_gpio.h:153:20:GPIO_PinWrite	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:77:13:BOARD_PullTouchPanelResetPin	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:89:13:BOARD_TimeDelay	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:94:6:BOARD_TouchIntHandler	4	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:107:13:BOARD_Touch_Init	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:130:6:BOARD_Touch_Deinit	8	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:156:5:EwBspTouchInit	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:216:6:EwBspTouchDone	8	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_touch.c:242:5:EwBspTouchGetEvents	48	static

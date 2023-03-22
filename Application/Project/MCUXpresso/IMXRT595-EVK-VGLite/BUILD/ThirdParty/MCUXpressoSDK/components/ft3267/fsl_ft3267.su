@@ -1,4 +1,0 @@
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/ft3267/fsl_ft3267.c:39:10:FT3267_Init	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/ft3267/fsl_ft3267.c:69:10:FT3267_Deinit	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/ft3267/fsl_ft3267.c:95:10:FT3267_GetSingleTouch	56	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/ft3267/fsl_ft3267.c:131:10:FT3267_GetMultiTouch	56	static

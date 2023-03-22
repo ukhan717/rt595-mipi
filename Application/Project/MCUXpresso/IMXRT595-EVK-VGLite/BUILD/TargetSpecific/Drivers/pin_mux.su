@@ -1,7 +1,0 @@
-c:\workspace\documentation\sc1\nxp\imxrt595-evk-vglite\thirdparty\mcuxpressosdk\devices\mimxrt595s\drivers\fsl_iopctl.h:88:22:IOPCTL_PinMuxSet	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/pin_mux.c:30:6:BOARD_InitBootPins	8	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/pin_mux.c:56:6:BOARD_InitUARTPins	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/pin_mux.c:137:6:BOARD_InitFlexIOPanelPins	72	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/pin_mux.c:485:6:BOARD_InitPsRamPins	56	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/pin_mux.c:747:6:BOARD_InitMipiPanelPins	40	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/Drivers/pin_mux.c:940:6:BOARD_InitPins	24	static

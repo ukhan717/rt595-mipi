@@ -1,6 +1,0 @@
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_display.c:113:5:EwBspDisplayInit	32	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_display.c:198:6:EwBspDisplayDone	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_display.c:225:5:EwBspDisplayGetUpdateArea	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_display.c:252:6:EwBspDisplayWaitForCompletion	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_display.c:309:6:EwBspDisplayCommitBuffer	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_display.c:345:6:EwBspDisplaySetClut	16	static

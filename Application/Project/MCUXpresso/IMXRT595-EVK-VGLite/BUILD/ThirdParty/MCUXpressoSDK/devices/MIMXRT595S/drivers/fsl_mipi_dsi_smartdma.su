@@ -1,7 +1,0 @@
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi.h:502:20:DSI_EnableInterrupts	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi.h:517:20:DSI_DisableInterrupts	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi.h:530:20:DSI_GetAndClearInterruptStatus	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi_smartdma.c:47:10:DSI_TransferCreateHandleSMARTDMA	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi_smartdma.c:77:6:DSI_TransferAbortSMARTDMA	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi_smartdma.c:103:10:DSI_TransferWriteMemorySMARTDMA	32	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/devices/MIMXRT595S/drivers/fsl_mipi_dsi_smartdma.c:165:13:DSI_SMARTDMA_Callback	40	static

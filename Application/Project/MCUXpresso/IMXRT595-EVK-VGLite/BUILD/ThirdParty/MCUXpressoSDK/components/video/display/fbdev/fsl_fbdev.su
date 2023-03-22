@@ -1,9 +1,0 @@
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:28:10:FBDEV_Open	40	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:70:10:FBDEV_Close	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:91:10:FBDEV_Enable	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:125:10:FBDEV_Disable	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:152:6:FBDEV_GetFrameBufferInfo	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:157:10:FBDEV_SetFrameBufferInfo	40	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:195:7:FBDEV_GetFrameBuffer	24	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:217:10:FBDEV_SetFrameBuffer	32	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/ThirdParty/MCUXpressoSDK/components/video/display/fbdev/fsl_fbdev.c:234:13:FBDEV_BufferSwitchOffCallback	32	static

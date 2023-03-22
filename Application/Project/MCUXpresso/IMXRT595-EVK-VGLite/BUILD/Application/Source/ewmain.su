@@ -1,6 +1,0 @@
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/Source/ewmain.c:136:5:EwInit	64	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/Source/ewmain.c:219:6:EwDone	8	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/Source/ewmain.c:286:5:EwProcess	64	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/Source/ewmain.c:400:13:EwUpdate	80	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/Source/ewmain.c:468:14:EwGetKeyCommand	4	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/Application/Source/ewmain.c:504:6:EwPrintSystemInfo	16	static

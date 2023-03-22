@@ -1,4 +1,0 @@
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_console.c:60:6:EwBspConsoleInit	4	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_console.c:79:6:EwBspConsoleDone	4	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_console.c:99:6:EwBspConsolePutCharacter	16	static
-C:/WorkSpace/Documentation/SC1/NXP/IMXRT595-EVK-VGLite/TargetSpecific/ew_bsp_console.c:121:15:EwBspConsoleGetCharacter	4	static
